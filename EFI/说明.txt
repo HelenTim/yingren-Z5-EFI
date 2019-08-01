@@ -1,0 +1,6 @@
+直接使用小兵的10.13.6(17G2112)制作安装盘，然后替换EFI之后才可安装，电脑基本可用，但是显卡驱动不对，系统卡，在安装的过程中会黑屏一段时间
+；在安装好之后再启动时也会黑屏一段时间。
+
+
+此efi结合了http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1787613&highlight=%BB%F0%D3%B0%2B%2Bz5这里的efi  以及使用
+http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1802413&highlight=%BB%F0%D3%B0  替换了前面的config.plist文件。
